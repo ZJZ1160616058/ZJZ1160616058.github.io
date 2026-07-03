@@ -1,0 +1,848 @@
+{
+  "Nile": {
+    "nameCN": "尼罗河",
+    "lengthKm": 6650,
+    "basin": "地中海流域",
+    "regions": "东非·东北非·埃及"
+  },
+  "Amazonas": {
+    "nameCN": "亚马逊河",
+    "lengthKm": 6400,
+    "basin": "大西洋流域",
+    "regions": "秘鲁·哥伦比亚·巴西"
+  },
+  "Chang Jiang": {
+    "nameCN": "长江",
+    "lengthKm": 6300,
+    "basin": "太平洋流域（注入东海）",
+    "regions": "青海·西藏·四川·云南·重庆·湖北·湖南·江西·安徽·江苏·上海",
+    "description": "中国第一大河，发源于青藏高原唐古拉山脉，流经11个省市自治区，最终注入东海。流域面积180万平方公里，养育了中国约三分之一人口。"
+  },
+  "Mississippi": {
+    "nameCN": "密西西比河",
+    "lengthKm": 3766,
+    "basin": "墨西哥湾流域",
+    "regions": "美国中西部·路易斯安那"
+  },
+  "Missouri": {
+    "nameCN": "密苏里河",
+    "lengthKm": 3767,
+    "basin": "墨西哥湾流域(密西西比水系)",
+    "regions": "蒙大拿·北达科他·南达科他·密苏里"
+  },
+  "Congo": {
+    "nameCN": "刚果河",
+    "lengthKm": 4700,
+    "basin": "大西洋流域",
+    "regions": "刚果民主共和国·刚果共和国·安哥拉"
+  },
+  "Danube": {
+    "nameCN": "多瑙河",
+    "lengthKm": 2850,
+    "basin": "黑海流域",
+    "regions": "德国·奥地利·匈牙利·罗马尼亚"
+  },
+  "Mekong": {
+    "nameCN": "湄公河",
+    "lengthKm": 4350,
+    "basin": "南海流域",
+    "regions": "云南·缅甸·老挝·泰国·柬埔寨·越南"
+  },
+  "Mackenzie": {
+    "nameCN": "马更些河",
+    "lengthKm": 4241,
+    "basin": "北冰洋流域",
+    "regions": "加拿大西北地区"
+  },
+  "Lena": {
+    "nameCN": "勒拿河",
+    "lengthKm": 4400,
+    "basin": "北冰洋流域",
+    "regions": "俄罗斯西伯利亚"
+  },
+  "Ob": {
+    "nameCN": "鄂毕河",
+    "lengthKm": 3650,
+    "basin": "北冰洋流域",
+    "regions": "俄罗斯西伯利亚"
+  },
+  "Paraná": {
+    "nameCN": "巴拉那河",
+    "lengthKm": 4880,
+    "basin": "大西洋流域",
+    "regions": "巴西·巴拉圭·阿根廷"
+  },
+  "Brahmaputra": {
+    "nameCN": "雅鲁藏布江",
+    "lengthKm": 3848,
+    "basin": "印度洋流域（注入孟加拉湾）",
+    "regions": "西藏·印度·孟加拉国",
+    "description": "世界海拔最高的大河，发源于西藏喜马拉雅山脉杰马央宗冰川，流经西藏南部后进入印度和孟加拉国，与恒河汇合后注入孟加拉湾。"
+  },
+  "Ayeyarwady": {
+    "nameCN": "伊洛瓦底江",
+    "lengthKm": 2170,
+    "basin": "安达曼海流域",
+    "regions": "缅甸"
+  },
+  "Angara": {
+    "nameCN": "安加拉河",
+    "lengthKm": 1779,
+    "basin": "北冰洋流域(叶尼塞水系)",
+    "regions": "俄罗斯西伯利亚"
+  },
+  "Ertis": {
+    "nameCN": "额尔齐斯河",
+    "lengthKm": 4248,
+    "basin": "北冰洋流域(鄂毕水系)",
+    "regions": "中国新疆·哈萨克斯坦·俄罗斯"
+  },
+  "Peace": {
+    "nameCN": "皮斯河",
+    "lengthKm": 1923,
+    "basin": "北冰洋流域(马更些水系)",
+    "regions": "加拿大不列颠哥伦比亚·艾伯塔"
+  },
+  "St. Lawrence": {
+    "nameCN": "圣劳伦斯河",
+    "lengthKm": 3058,
+    "basin": "大西洋流域",
+    "regions": "加拿大·美国"
+  },
+  "Victoria Nile": {
+    "nameCN": "维多利亚尼罗河",
+    "lengthKm": 500,
+    "basin": "地中海流域(尼罗水系)",
+    "regions": "乌干达"
+  },
+  "Albert Nile": {
+    "nameCN": "艾伯特尼罗河",
+    "lengthKm": 210,
+    "basin": "地中海流域(尼罗水系)",
+    "regions": "乌干达·南苏丹"
+  },
+  "Bahr el Jebel": {
+    "nameCN": "杰贝勒河",
+    "lengthKm": 956,
+    "basin": "地中海流域(尼罗水系)",
+    "regions": "南苏丹"
+  },
+  "Madison": {
+    "nameCN": "麦迪逊河",
+    "lengthKm": 295,
+    "basin": "墨西哥湾流域(密苏里水系)",
+    "regions": "美国怀俄明·蒙大拿"
+  },
+  "Slave": {
+    "nameCN": "大奴河",
+    "lengthKm": 434,
+    "basin": "北冰洋流域(马更些水系)",
+    "regions": "加拿大艾伯塔·西北地区"
+  },
+  "Borcea": {
+    "nameCN": "博尔恰河",
+    "lengthKm": 40,
+    "basin": "黑海流域(多瑙河分支)",
+    "regions": "罗马尼亚"
+  },
+  "Bratul Chillia": {
+    "nameCN": "基利亚支流",
+    "lengthKm": 120,
+    "basin": "黑海流域(多瑙河三角洲)",
+    "regions": "罗马尼亚·乌克兰"
+  },
+  "Bratul Sfintu Gheorghe": {
+    "nameCN": "圣乔治支流",
+    "lengthKm": 110,
+    "basin": "黑海流域(多瑙河三角洲)",
+    "regions": "罗马尼亚"
+  },
+  "Bratul Sulina": {
+    "nameCN": "苏利纳支流",
+    "lengthKm": 70,
+    "basin": "黑海流域(多瑙河三角洲)",
+    "regions": "罗马尼亚"
+  },
+  "Bykovskaya Protoka": {
+    "nameCN": "贝科夫斯卡亚支流",
+    "lengthKm": 100,
+    "basin": "北冰洋流域(勒拿三角洲)",
+    "regions": "俄罗斯萨哈共和国"
+  },
+  "Yellow River": {
+    "nameCN": "黄河",
+    "lengthKm": 5464,
+    "basin": "黄河流域（注入渤海）",
+    "regions": "青海·四川·甘肃·宁夏·内蒙古·陕西·山西·河南·山东",
+    "description": "中国第二大河，发源于巴颜喀拉山脉，流经九省区，最终注入渤海。因携带大量黄土高原泥沙而呈黄色，是中华文明的摇篮。"
+  },
+  "Heilong Jiang": {
+    "nameCN": "黑龙江",
+    "lengthKm": 4444,
+    "basin": "黑龙江流域（注入鄂霍次克海）",
+    "regions": "中国东北·俄罗斯远东",
+    "description": "中国与俄罗斯的界河，发源于大兴安岭西坡，流经中国东北和俄罗斯远东，最终注入鄂霍次克海。满语意为'黑色的江'。"
+  },
+  "Damietta Branch": {
+    "nameCN": "杜姆亚特支流",
+    "lengthKm": 70,
+    "basin": "地中海流域(尼罗河三角洲)",
+    "regions": "埃及"
+  },
+  "Dihang": {
+    "nameCN": "迪汉河",
+    "lengthKm": 200,
+    "basin": "印度洋流域(雅鲁藏布江水系)",
+    "regions": "印度阿萨姆邦"
+  },
+  "Donau": {
+    "nameCN": "多瑙河",
+    "lengthKm": 2850,
+    "basin": "黑海流域",
+    "regions": "德国·奥地利·匈牙利·罗马尼亚(德语名)"
+  },
+  "El Bahr el Abyad": {
+    "nameCN": "白尼罗河",
+    "lengthKm": 1100,
+    "basin": "地中海流域(尼罗水系)",
+    "regions": "南苏丹·苏丹"
+  },
+  "Ertix": {
+    "nameCN": "额尔齐斯河",
+    "lengthKm": 4248,
+    "basin": "北冰洋流域(鄂毕水系)",
+    "regions": "中国新疆·哈萨克斯坦·俄罗斯"
+  },
+  "Ideriyn": {
+    "nameCN": "伊德里因河",
+    "lengthKm": 300,
+    "basin": "北冰洋流域(勒拿水系)",
+    "regions": "俄罗斯西伯利亚"
+  },
+  "Irrawaddy Delta": {
+    "nameCN": "伊洛瓦底江三角洲",
+    "lengthKm": 200,
+    "basin": "安达曼海流域",
+    "regions": "缅甸"
+  },
+  "Irtysh": {
+    "nameCN": "额尔齐斯河",
+    "lengthKm": 4248,
+    "basin": "北冰洋流域(鄂毕水系)",
+    "regions": "中国新疆·哈萨克斯坦·俄罗斯"
+  },
+  "Jinsha": {
+    "nameCN": "金沙江",
+    "lengthKm": 2308,
+    "basin": "太平洋流域(长江水系)",
+    "regions": "青海·西藏·四川·云南"
+  },
+  "Kagera": {
+    "nameCN": "卡盖拉河",
+    "lengthKm": 800,
+    "basin": "地中海流域(尼罗河源头)",
+    "regions": "卢旺达·坦桑尼亚·乌干达"
+  },
+  "Lancang": {
+    "nameCN": "澜沧江",
+    "lengthKm": 2198,
+    "basin": "南海流域(湄公河上游)",
+    "regions": "青海·西藏·云南",
+    "description": "国际河流湄公河的上游，发源于青藏高原唐古拉山脉，流经青海、西藏、云南后出境，下游流经缅甸、老挝、泰国、柬埔寨、越南五国，最终注入南海。"
+  },
+  "Lualaba": {
+    "nameCN": "卢阿拉巴河",
+    "lengthKm": 1800,
+    "basin": "大西洋流域(刚果河上游)",
+    "regions": "刚果民主共和国"
+  },
+  "Maquan": {
+    "nameCN": "马泉河",
+    "lengthKm": 250,
+    "basin": "印度洋流域(雅鲁藏布江源头)",
+    "regions": "西藏"
+  },
+  "Nmai": {
+    "nameCN": "恩梅开江",
+    "lengthKm": 500,
+    "basin": "安达曼海流域(伊洛瓦底江源头)",
+    "regions": "缅甸北部"
+  },
+  "Olenekskaya Protoka": {
+    "nameCN": "奥列涅克支流",
+    "lengthKm": 130,
+    "basin": "北冰洋流域(勒拿三角洲)",
+    "regions": "俄罗斯萨哈共和国"
+  },
+  "Rosetta Branch": {
+    "nameCN": "罗塞塔支流",
+    "lengthKm": 230,
+    "basin": "地中海流域(尼罗河三角洲)",
+    "regions": "埃及"
+  },
+  "Selenge (Selenga)": {
+    "nameCN": "色楞格河",
+    "lengthKm": 992,
+    "basin": "北冰洋流域(贝加尔湖水系)",
+    "regions": "蒙古·俄罗斯"
+  },
+  "Tongtian": {
+    "nameCN": "通天河",
+    "lengthKm": 813,
+    "basin": "太平洋流域(长江上游)",
+    "regions": "青海·西藏"
+  },
+  "Tuotuo": {
+    "nameCN": "沱沱河",
+    "lengthKm": 375,
+    "basin": "太平洋流域(长江源头)",
+    "regions": "青海"
+  },
+  "Ucayali": {
+    "nameCN": "乌卡亚利河",
+    "lengthKm": 1771,
+    "basin": "大西洋流域(亚马逊河源头)",
+    "regions": "秘鲁"
+  },
+  "Yarlung": {
+    "nameCN": "雅鲁藏布江",
+    "lengthKm": 1200,
+    "basin": "印度洋流域",
+    "regions": "西藏"
+  },
+  "Za": {
+    "nameCN": "扎曲",
+    "lengthKm": 400,
+    "basin": "南海流域(澜沧江源头)",
+    "regions": "青海"
+  },
+  "Abay": {
+    "nameCN": "青尼罗河",
+    "lengthKm": 1600,
+    "basin": "地中海流域(尼罗河水系)",
+    "regions": "埃塞俄比亚·苏丹"
+  },
+  "Al Furat": {
+    "nameCN": "幼发拉底河",
+    "lengthKm": 2800,
+    "basin": "波斯湾流域",
+    "regions": "土耳其·叙利亚·伊拉克(阿拉伯语名)"
+  },
+  "Amur": {
+    "nameCN": "阿穆尔河",
+    "lengthKm": 4444,
+    "basin": "鄂霍次克海流域",
+    "regions": "中国东北·俄罗斯远东(黑龙江俄语名)"
+  },
+  "Columbia": {
+    "nameCN": "哥伦比亚河",
+    "lengthKm": 2000,
+    "basin": "太平洋流域",
+    "regions": "加拿大·美国西北部"
+  },
+  "Dnipro": {
+    "nameCN": "第聂伯河",
+    "lengthKm": 2201,
+    "basin": "黑海流域",
+    "regions": "俄罗斯·白俄罗斯·乌克兰"
+  },
+  "El Bahr el Azraq": {
+    "nameCN": "青尼罗河",
+    "lengthKm": 1600,
+    "basin": "地中海流域(尼罗河水系)",
+    "regions": "埃塞俄比亚·苏丹(阿拉伯语名)"
+  },
+  "Firat": {
+    "nameCN": "幼发拉底河",
+    "lengthKm": 2800,
+    "basin": "波斯湾流域",
+    "regions": "土耳其·叙利亚·伊拉克(土耳其语名)"
+  },
+  "Indus": {
+    "nameCN": "印度河",
+    "lengthKm": 3180,
+    "basin": "阿拉伯海流域",
+    "regions": "西藏·印度·巴基斯坦"
+  },
+  "La Grande Rivière": {
+    "nameCN": "拉格朗德河",
+    "lengthKm": 861,
+    "basin": "哈德逊湾流域",
+    "regions": "加拿大魁北克"
+  },
+  "Murray": {
+    "nameCN": "墨累河",
+    "lengthKm": 2508,
+    "basin": "印度洋流域",
+    "regions": "澳大利亚"
+  },
+  "Niger": {
+    "nameCN": "尼日尔河",
+    "lengthKm": 4200,
+    "basin": "大西洋流域",
+    "regions": "几内亚·马里·尼日利亚"
+  },
+  "Paranaíba": {
+    "nameCN": "巴拉那伊巴河",
+    "lengthKm": 1150,
+    "basin": "大西洋流域(巴拉那水系)",
+    "regions": "巴西"
+  },
+  "Rhein": {
+    "nameCN": "莱茵河",
+    "lengthKm": 1230,
+    "basin": "北海流域",
+    "regions": "瑞士·德国·荷兰(德语名)"
+  },
+  "Rio Grande": {
+    "nameCN": "格兰德河",
+    "lengthKm": 3057,
+    "basin": "墨西哥湾流域",
+    "regions": "美国·墨西哥"
+  },
+  "Saskatchewan": {
+    "nameCN": "萨斯喀彻温河",
+    "lengthKm": 1939,
+    "basin": "哈德逊湾流域",
+    "regions": "加拿大"
+  },
+  "Shire": {
+    "nameCN": "希雷河",
+    "lengthKm": 402,
+    "basin": "印度洋流域(赞比西水系)",
+    "regions": "马拉维·莫桑比克"
+  },
+  "Shishhid Gol": {
+    "nameCN": "石室河",
+    "lengthKm": 500,
+    "basin": "北冰洋流域(叶尼塞水系)",
+    "regions": "俄罗斯西伯利亚"
+  },
+  "Snake": {
+    "nameCN": "斯内克河",
+    "lengthKm": 1673,
+    "basin": "太平洋流域(哥伦比亚水系)",
+    "regions": "美国怀俄明·爱达荷·华盛顿"
+  },
+  "Sukhona": {
+    "nameCN": "苏霍纳河",
+    "lengthKm": 557,
+    "basin": "北冰洋流域(北德维纳水系)",
+    "regions": "俄罗斯"
+  },
+  "São  Francisco": {
+    "nameCN": "圣弗朗西斯科河",
+    "lengthKm": 2914,
+    "basin": "大西洋流域",
+    "regions": "巴西"
+  },
+  "Teslin": {
+    "nameCN": "泰斯林河",
+    "lengthKm": 500,
+    "basin": "太平洋流域(育空水系)",
+    "regions": "加拿大育空地区"
+  },
+  "Tocantins": {
+    "nameCN": "托坎廷斯河",
+    "lengthKm": 2450,
+    "basin": "大西洋流域",
+    "regions": "巴西"
+  },
+  "Ural": {
+    "nameCN": "乌拉尔河",
+    "lengthKm": 2428,
+    "basin": "里海流域",
+    "regions": "俄罗斯·哈萨克斯坦"
+  },
+  "Vaal": {
+    "nameCN": "瓦尔河",
+    "lengthKm": 1120,
+    "basin": "大西洋流域(奥兰治水系)",
+    "regions": "南非"
+  },
+  "Verkhniy Yenisey": {
+    "nameCN": "上叶尼塞河",
+    "lengthKm": 600,
+    "basin": "北冰洋流域(叶尼塞水系)",
+    "regions": "俄罗斯西伯利亚"
+  },
+  "Volga": {
+    "nameCN": "伏尔加河",
+    "lengthKm": 3530,
+    "basin": "里海流域",
+    "regions": "俄罗斯"
+  },
+  "Zambezi": {
+    "nameCN": "赞比西河",
+    "lengthKm": 2574,
+    "basin": "印度洋流域",
+    "regions": "赞比亚·安哥拉·津巴布韦·莫桑比克"
+  },
+  "Aldan": {
+    "nameCN": "阿尔丹河",
+    "lengthKm": 2273,
+    "basin": "北冰洋流域(勒拿水系)",
+    "regions": "俄罗斯西伯利亚"
+  },
+  "Allegheny": {
+    "nameCN": "阿勒格尼河",
+    "lengthKm": 523,
+    "basin": "大西洋流域(俄亥俄水系)",
+    "regions": "美国宾夕法尼亚·纽约"
+  },
+  "Araguaia": {
+    "nameCN": "阿拉瓜亚河",
+    "lengthKm": 1992,
+    "basin": "大西洋流域(托坎廷斯水系)",
+    "regions": "巴西"
+  },
+  "Arkansas": {
+    "nameCN": "阿肯色河",
+    "lengthKm": 2364,
+    "basin": "墨西哥湾流域(密西西比水系)",
+    "regions": "美国科罗拉多·堪萨斯·阿肯色"
+  },
+  "Bafing": {
+    "nameCN": "巴芬河",
+    "lengthKm": 800,
+    "basin": "大西洋流域(塞内加尔水系)",
+    "regions": "几内亚·马里"
+  },
+  "Barwon": {
+    "nameCN": "巴旺河",
+    "lengthKm": 670,
+    "basin": "印度洋流域(墨累水系)",
+    "regions": "澳大利亚"
+  },
+  "Benue": {
+    "nameCN": "贝努埃河",
+    "lengthKm": 1400,
+    "basin": "大西洋流域(尼日尔水系)",
+    "regions": "喀麦隆·尼日利亚"
+  },
+  "Braco Menor": {
+    "nameCN": "小布拉科河",
+    "lengthKm": 300,
+    "basin": "大西洋流域(巴拉那水系)",
+    "regions": "巴西"
+  },
+  "Bénoué": {
+    "nameCN": "贝努埃河",
+    "lengthKm": 1400,
+    "basin": "大西洋流域(尼日尔水系)",
+    "regions": "喀麦隆·尼日利亚(法语名)"
+  },
+  "Darling": {
+    "nameCN": "达令河",
+    "lengthKm": 1472,
+    "basin": "印度洋流域(墨累水系)",
+    "regions": "澳大利亚"
+  },
+  "Dicle": {
+    "nameCN": "底格里斯河",
+    "lengthKm": 1900,
+    "basin": "波斯湾流域",
+    "regions": "土耳其·伊拉克(土耳其语名)"
+  },
+  "Dnepre": {
+    "nameCN": "第聂伯河",
+    "lengthKm": 2201,
+    "basin": "黑海流域",
+    "regions": "俄罗斯·白俄罗斯·乌克兰"
+  },
+  "Euphrates": {
+    "nameCN": "幼发拉底河",
+    "lengthKm": 2800,
+    "basin": "波斯湾流域",
+    "regions": "土耳其·叙利亚·伊拉克"
+  },
+  "Ganges": {
+    "nameCN": "恒河",
+    "lengthKm": 2525,
+    "basin": "孟加拉湾流域",
+    "regions": "印度·孟加拉国"
+  },
+  "Gharraf Canal": {
+    "nameCN": "加尔夫运河",
+    "lengthKm": 200,
+    "basin": "波斯湾流域(底格里斯水系)",
+    "regions": "伊拉克"
+  },
+  "Grande": {
+    "nameCN": "大河流域",
+    "lengthKm": 3057,
+    "basin": "拉普拉塔河流域",
+    "regions": "巴西"
+  },
+  "Guaporé": {
+    "nameCN": "瓜波雷河",
+    "lengthKm": 1749,
+    "basin": "大西洋流域(马代拉水系)",
+    "regions": "巴西·玻利维亚"
+  },
+  "Hailar": {
+    "nameCN": "海拉尔河",
+    "lengthKm": 622,
+    "basin": "鄂霍次克海流域(黑龙江水系)",
+    "regions": "中国内蒙古"
+  },
+  "Hongshui": {
+    "nameCN": "红水河",
+    "lengthKm": 659,
+    "basin": "南海流域(珠江水系)",
+    "regions": "中国广西"
+  },
+  "Indaiá": {
+    "nameCN": "因达亚河",
+    "lengthKm": 400,
+    "basin": "大西洋流域(巴拉那水系)",
+    "regions": "巴西"
+  },
+  "Kasai": {
+    "nameCN": "开赛河",
+    "lengthKm": 2153,
+    "basin": "大西洋流域(刚果水系)",
+    "regions": "安哥拉·刚果民主共和国"
+  },
+  "Kibali": {
+    "nameCN": "基巴利河",
+    "lengthKm": 800,
+    "basin": "大西洋流域(刚果水系)",
+    "regions": "刚果民主共和国"
+  },
+  "Kolyma": {
+    "nameCN": "科雷马河",
+    "lengthKm": 2129,
+    "basin": "北冰洋流域",
+    "regions": "俄罗斯西伯利亚远东"
+  },
+  "Kyzyl-Khem": {
+    "nameCN": "克孜勒赫姆河",
+    "lengthKm": 50,
+    "basin": "北冰洋流域(叶尼塞水系)",
+    "regions": "俄罗斯西伯利亚"
+  },
+  "Lek": {
+    "nameCN": "莱克河",
+    "lengthKm": 60,
+    "basin": "北海流域(莱茵河三角洲)",
+    "regions": "荷兰"
+  },
+  "Madeira": {
+    "nameCN": "马代拉河",
+    "lengthKm": 3250,
+    "basin": "大西洋流域(亚马逊水系)",
+    "regions": "巴西·玻利维亚"
+  },
+  "Magdalena": {
+    "nameCN": "马格达莱纳河",
+    "lengthKm": 1543,
+    "basin": "加勒比海流域",
+    "regions": "哥伦比亚"
+  },
+  "Malyy Yenisey": {
+    "nameCN": "小叶尼塞河",
+    "lengthKm": 563,
+    "basin": "北冰洋流域(叶尼塞水系)",
+    "regions": "俄罗斯西伯利亚"
+  },
+  "Mamoré": {
+    "nameCN": "马莫雷河",
+    "lengthKm": 1930,
+    "basin": "大西洋流域(马代拉水系)",
+    "regions": "玻利维亚·巴西"
+  },
+  "Nanpan": {
+    "nameCN": "南盘江",
+    "lengthKm": 900,
+    "basin": "南海流域(珠江水系)",
+    "regions": "中国云南·贵州"
+  },
+  "Nederrijn": {
+    "nameCN": "下莱茵河",
+    "lengthKm": 120,
+    "basin": "北海流域(莱茵河水系)",
+    "regions": "荷兰"
+  },
+  "Negro": {
+    "nameCN": "内格罗河",
+    "lengthKm": 2250,
+    "basin": "大西洋流域(亚马逊水系)",
+    "regions": "巴西·哥伦比亚·委内瑞拉"
+  },
+  "Neuquén": {
+    "nameCN": "内乌肯河",
+    "lengthKm": 500,
+    "basin": "大西洋流域(内格罗水系)",
+    "regions": "阿根廷"
+  },
+  "Niagara": {
+    "nameCN": "尼亚加拉河",
+    "lengthKm": 58,
+    "basin": "大西洋流域(圣劳伦斯水系)",
+    "regions": "美国·加拿大"
+  },
+  "North Saskatchewan": {
+    "nameCN": "北萨斯喀彻温河",
+    "lengthKm": 1287,
+    "basin": "哈德逊湾流域",
+    "regions": "加拿大艾伯塔"
+  },
+  "Nu": {
+    "nameCN": "怒江",
+    "lengthKm": 3240,
+    "basin": "印度洋流域(萨尔温江)",
+    "regions": "中国西藏·云南"
+  },
+  "Oder": {
+    "nameCN": "奥得河",
+    "lengthKm": 854,
+    "basin": "波罗的海流域",
+    "regions": "捷克·波兰·德国"
+  },
+  "Ohio": {
+    "nameCN": "俄亥俄河",
+    "lengthKm": 1579,
+    "basin": "墨西哥湾流域(密西西比水系)",
+    "regions": "美国"
+  },
+  "Orange": {
+    "nameCN": "奥兰治河",
+    "lengthKm": 2200,
+    "basin": "大西洋流域",
+    "regions": "莱索托·南非·纳米比亚"
+  },
+  "Orinoco": {
+    "nameCN": "奥里诺科河",
+    "lengthKm": 2140,
+    "basin": "大西洋流域",
+    "regions": "哥伦比亚·委内瑞拉"
+  },
+  "Pechora": {
+    "nameCN": "伯朝拉河",
+    "lengthKm": 1809,
+    "basin": "北冰洋流域",
+    "regions": "俄罗斯"
+  },
+  "Quan": {
+    "nameCN": "汊河",
+    "lengthKm": 300,
+    "basin": "南海流域(珠江水系)",
+    "regions": "中国广东"
+  },
+  "Rhin": {
+    "nameCN": "莱茵河",
+    "lengthKm": 1230,
+    "basin": "北海流域",
+    "regions": "瑞士·德国·荷兰(法语名)"
+  },
+  "Rhine": {
+    "nameCN": "莱茵河",
+    "lengthKm": 1230,
+    "basin": "北海流域",
+    "regions": "瑞士·德国·荷兰(英语名)"
+  },
+  "Salween": {
+    "nameCN": "萨尔温江",
+    "lengthKm": 3240,
+    "basin": "印度洋流域",
+    "regions": "中国西藏·云南·缅甸"
+  },
+  "Seine": {
+    "nameCN": "塞纳河",
+    "lengthKm": 777,
+    "basin": "英吉利海峡流域",
+    "regions": "法国"
+  },
+  "Shatt al Arab": {
+    "nameCN": "阿拉伯河",
+    "lengthKm": 200,
+    "basin": "波斯湾流域",
+    "regions": "伊拉克·伊朗"
+  },
+  "Shiquan": {
+    "nameCN": "石泉河",
+    "lengthKm": 400,
+    "basin": "北冰洋流域(叶尼塞水系)",
+    "regions": "俄罗斯西伯利亚"
+  },
+  "St. Clair": {
+    "nameCN": "圣克莱尔河",
+    "lengthKm": 100,
+    "basin": "大西洋流域(圣劳伦斯水系)",
+    "regions": "美国·加拿大"
+  },
+  "Severnaya Dvina": {
+    "nameCN": "北德维纳河",
+    "lengthKm": 744,
+    "basin": "北冰洋流域",
+    "regions": "俄罗斯"
+  },
+  "Sénégal": {
+    "nameCN": "塞内加尔河",
+    "lengthKm": 1790,
+    "basin": "大西洋流域",
+    "regions": "几内亚·马里·塞内加尔"
+  },
+  "Tigris": {
+    "nameCN": "底格里斯河",
+    "lengthKm": 1900,
+    "basin": "波斯湾流域",
+    "regions": "土耳其·伊拉克"
+  },
+  "Ubangi": {
+    "nameCN": "乌班吉河",
+    "lengthKm": 2270,
+    "basin": "大西洋流域(刚果水系)",
+    "regions": "中非·刚果民主共和国"
+  },
+  "Uele": {
+    "nameCN": "韦莱河",
+    "lengthKm": 1200,
+    "basin": "大西洋流域(刚果水系)",
+    "regions": "刚果民主共和国"
+  },
+  "Waal": {
+    "nameCN": "瓦尔河",
+    "lengthKm": 80,
+    "basin": "北海流域(莱茵河三角洲)",
+    "regions": "荷兰"
+  },
+  "Weir": {
+    "nameCN": "韦尔河",
+    "lengthKm": 300,
+    "basin": "印度洋流域(雅鲁藏布江水系)",
+    "regions": "西藏·印度"
+  },
+  "Xi": {
+    "nameCN": "珠江（西江主干）",
+    "lengthKm": 2197,
+    "basin": "南海流域(珠江水系)",
+    "regions": "中国云南·贵州·广西·广东",
+    "description": "珠江是中国南方最大河流，由西江、北江、东江三大水系组成。西江为主干，发源于云南马雄山，流经云贵桂粤四省区，经珠江口注入南海。流域面积45万平方公里。"
+  },
+  "Xun": {
+    "nameCN": "浔江",
+    "lengthKm": 400,
+    "basin": "南海流域(珠江水系)",
+    "regions": "中国广西"
+  },
+  "Yenisey": {
+    "nameCN": "叶尼塞河",
+    "lengthKm": 3487,
+    "basin": "北冰洋流域",
+    "regions": "俄罗斯西伯利亚"
+  },
+  "Yukon": {
+    "nameCN": "育空河",
+    "lengthKm": 3185,
+    "basin": "太平洋流域",
+    "regions": "加拿大·美国阿拉斯加"
+  },
+  "Argun’": {
+    "nameCN": "额尔古纳河",
+    "lengthKm": 944,
+    "basin": "鄂霍次克海流域(黑龙江水系)",
+    "regions": "中国内蒙古·俄罗斯"
+  }
+}
